@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ashish Kumar
-Skills: HTML, CSS, JS, Next.js, React js , Node js, MongoDb etc
-Email: ashishnayak6488@gmail.com
-{{/user}}
